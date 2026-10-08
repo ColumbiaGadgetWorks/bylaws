@@ -27,7 +27,7 @@ Board seats are open only to members 18 or older.
 | Standard | $50 a month | May be paid quarterly |
 | Supporter | $100 a month | Same as Standard in every way. The extra $50 is a tax-deductible donation |
 | Hardship | $0 | Apply privately to the board. Lasts 12 months and can be renewed. No more than [20% of members, or 4, whichever is more] |
-| Legacy | $40 a month | Only for members already paying $40. Ends when these bylaws are adopted |
+| Legacy | $40 a month | Only for members already paying $40. Ends when the new bylaws are adopted |
 
 Every type has the same rights, including the vote. Who holds a hardship waiver is kept confidential.
 
