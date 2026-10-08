@@ -1,0 +1,28 @@
+# Rebuild columbiagadgetworks.org when the official text changes, so the
+# /policies/ pages always match main. Does nothing until the WEBSITE_BUILD_HOOK
+# secret is set (Settings > Secrets and variables > Actions):
+#   WEBSITE_BUILD_HOOK   URL that starts a production build of the website's
+#                        Cloudflare Worker (a deploy hook, or the Workers Builds
+#                        "create build" API endpoint for the website's trigger)
+#   CLOUDFLARE_API_TOKEN only if the URL above is the Cloudflare API rather than
+#                        a deploy hook
+name: Rebuild website
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger website build
+        env:
+          HOOK: ${{ secrets.WEBSITE_BUILD_HOOK }}
+          TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -z "$HOOK" ]; then echo "WEBSITE_BUILD_HOOK not set; skipping."; exit 0; fi
+          if [ -n "$TOKEN" ]; then
+            curl -fsS -X POST -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" -d '{"branch":"main"}' "$HOOK"
+          else
+            curl -fsS -X POST "$HOOK"
+          fi
