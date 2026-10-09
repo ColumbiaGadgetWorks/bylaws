@@ -12,7 +12,7 @@ The classroom, kitchen, entrance, donation shelf, and Open Hack Night are not pa
 
 | Role | How appointed | Term |
 |---|---|---|
-| **Zone Boss** | By the board, one per zone | Ends 30 April. Every role is reappointed together each year |
+| **Zone Boss** | By the board, one per zone; reports to the Shop Steward | Ends 30 April. Every role is reappointed together each year |
 | **Lead** | By the board, for a job that isn't a place (membership, classes, systems…) | Ends 30 April |
 | **Deputy** | By a Zone Boss or Lead, no board approval | Until the person who appointed them says otherwise |
 

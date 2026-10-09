@@ -1,67 +1,71 @@
 # How we decide
 
-*Policy draft. Not adopted. Covers who decides what, and how changes are proposed, voted on, and recorded.*
+*Policy draft. Not adopted.*
 
-## Three layers
+CGW makes decisions in two separate ways:
 
-| Layer | Where it lives | Who changes it | How |
-|---|---|---|---|
-| **Bylaws** | `bylaws.md` | Members | Member vote: quorum, then two-thirds of votes cast |
-| **Policies** | `policies/` | Board | Board majority, after 7 days for member comment |
-| **Zone rules** | The zone's wiki page | The Zone Boss | No vote. Must fit within policy |
+| | **Member votes** | **Board votes** |
+|---|---|---|
+| Decides | Who sits on the board; what the bylaws say; dissolution or merger | Everything else: all policy, the budget, appointments, discipline |
+| Who votes | Every member in good standing | The five directors |
+| When | The annual meeting (second Thursday of April), or a special vote | Any time |
+| How | Secret ballot. The Secretary records the votes (method below) | Reviews on a GitHub pull request, or a vote at a board meeting |
+| Passes with | Quorum, then a majority (two-thirds for bylaw changes) | A majority of directors |
 
-If two layers conflict, the higher one wins, in this order: Missouri law, the Articles, the bylaws, policy, zone rules.
+Zone rules are a third, smaller layer. A Zone Boss sets them on the zone's wiki page without a vote, and they must fit within policy.
 
-**This repository is the only official text.** The website builds its policy pages straight from it. Nobody keeps a separate copy.
+If two layers conflict, the higher one wins: Missouri law, the Articles, the bylaws, policy, zone rules.
 
-## Proposing a change
+## Proposing any change
 
-Any member may propose a change.
+Any member may propose a change to the bylaws or a policy.
 
-1. **Open a pull request** (PR) that edits the file. The diff shows exactly what would change. Without a GitHub account, or if you'd rather not edit, open an issue describing what you want, or ask the Secretary. The Secretary turns it into a PR and credits you.
+1. **Open a pull request** (PR) in this repository that edits the file. The diff shows exactly what would change. If you don't use GitHub, open an issue or ask the Secretary, who will open the PR for you and credit you.
 2. **Announce it.** The Secretary posts the link on Discord.
-3. **Discuss it** on the PR. Use GitHub's "suggest changes" to propose wording; the author decides which suggestions to take.
+3. **Discuss it** on the PR.
 
-Keep each PR to one topic. A typo or formatting fix that doesn't change meaning is labeled `editorial`, and the Secretary may merge it without a vote.
+A typo or formatting fix that doesn't change meaning is labeled `editorial`, and the Secretary may merge it without a vote.
 
-## Policy changes: the board votes on GitHub
+## Board votes: on GitHub
 
-1. **Comment period.** The PR stays open for at least **7 days** after it is announced.
-2. **Vote.** Each director votes with a GitHub review:
-   - **Approve** = yes;
-   - **Request changes** = no;
-   - a comment saying "abstain" = abstain.
-3. **Passing without a meeting.** If **every** director approves, the PR passes. That counts as unanimous written consent (bylaws 4.5).
-4. **Passing at a meeting.** If not every director approves, the PR goes on the agenda for the next board meeting. The Secretary records that vote on the PR and in the minutes.
-5. **Adoption.** After the vote passes, the Secretary merges the PR. It takes effect on the merge date unless the PR says otherwise.
-6. **Urgent changes.** For safety or legal urgency, the board may skip the comment period by unanimous approval. The PR then takes comments for 7 days after merging, and the board reconsiders at its next meeting if anyone objects.
+Policy changes are decided on the PR itself.
 
-## Bylaw changes and elections: members vote by secret ballot
+1. **Comment period.** Members have 7 days after the Discord announcement to comment before the vote closes.
+2. **Directors review the PR.** Approve means yes; "Request changes" means no.
+3. **Passing.** Once a majority of directors (3 of 5) approve and the comment period is over, the Secretary merges the PR. The policy takes effect when merged, unless the PR says otherwise.
+4. **Record.** The PR and its reviews are the record. At the next board meeting, the board confirms every policy change merged since the last meeting (bylaws 5.12).
+5. **Urgent changes.** For safety or legal urgency, the board may skip the comment period if all five directors approve.
 
-1. **Getting on the ballot.** The board puts a bylaw PR to a member vote, or the members require it by petition (bylaws 3.3).
-2. **Freezing the text.** The Secretary tags the PR's final commit `ballot/<yyyy-mm-dd>`. Members vote on that exact text. Any later change needs a new notice.
-3. **Notice.** The Secretary sends the email notice required by bylaws 3.4. It links to the tagged text and attaches a PDF copy.
-4. **Nominations** open with the notice and close 7 days before voting opens. Any eligible member may nominate themselves or another member who agrees.
-5. **Ballot.**
-   - On the morning voting opens, the Secretary exports the list of members in good standing from Dolibarr. That list is the voter roll.
-   - The Secretary loads the roll into the online ballot service. Each member gets a personal voting link by email, and each link works once.
-   - Members who don't vote online may vote at the meeting, on a phone or on the shop laptop.
-6. **Counting.** When the ballot closes, the Secretary posts on the PR: the number of eligible voters, ballots cast, whether quorum was met, the yes/no/abstain counts, and the result. A second director checks the count.
-7. **Adoption.** If the vote passes, the Secretary merges the PR and fills in the adoption date. If it fails, the PR is closed and kept on record.
+Other board decisions, such as spending, appointments, and discipline, are made at board meetings and recorded in the minutes.
+
+## Member votes: by ballot
+
+Bylaw changes and elections are not decided on GitHub. GitHub only holds the text being voted on.
+
+1. **Getting on the ballot.** The board puts a bylaw PR to a member vote, or members petition for one (bylaws 5.3).
+2. **Freezing the text.** The Secretary tags the PR's final commit `ballot/<yyyy-mm-dd>`. Members vote on that exact text.
+3. **Notice.** Sent by email 10 to 60 days before voting opens, with a link to the tagged text and a PDF copy (bylaws 5.4).
+4. **Nominations** open with the notice and close 7 days before voting opens. Any eligible member may nominate themselves, or another member who agrees.
+5. **Voter roll.** On the day voting opens, the Secretary exports the list of members in good standing from Dolibarr.
+6. **Ballot.** Secret ballot, open at least 7 days, closing at the end of the meeting. Voting method: **[to be decided]**. Options under consideration:
+   - an online ballot service that emails each member a personal link (such as Helios Voting);
+   - paper ballots at the meeting.
+7. **Counting.** The Secretary counts the votes and a second director checks the count. The Secretary posts the result on the PR: eligible voters, ballots cast, whether quorum was met, the yes/no/abstain counts, and the outcome.
+8. **Adoption.** If the vote passes, the Secretary merges the PR. If it fails, the PR is closed and kept on record.
 
 ## The annual meeting
 
 - Held on the **second Thursday of April**, during Open Hack Night (6 pm).
-- The ballot opens at least 7 days before and closes at the end of the meeting.
 - Agenda:
   1. Treasurer's report;
   2. election results;
   3. bylaw changes;
   4. open floor.
-- By 30 April, the new board appoints Zone Bosses and Leads.
+- The new board appoints Zone Bosses and Leads by 30 April.
 
 ## Records
 
-- Every adopted change is a merged PR. The git history is the full change log.
-- Board minutes are added to `minutes/` by PR.
-- Closed-session matters are only summarized in the minutes.
+- This repository holds the only official text of the bylaws and policies. The website builds its pages directly from it.
+- Every adopted change is a merged PR, and the git history is the full change record.
+- Board minutes are added to `minutes/` by PR. Closed-session matters are only summarized.
+- Members may inspect CGW's records as Missouri law provides.

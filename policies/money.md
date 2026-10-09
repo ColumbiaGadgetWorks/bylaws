@@ -30,6 +30,12 @@ Zones get no share of dues.
 - **Teacher Fund.** The instructor may take up to 50% of a class's revenue, capped at $500 per person per calendar year and paid quarterly. Whatever the instructor doesn't take goes to the zone.
 - **Grant-funded classes** are free and pay no instructor share.
 
+## Accounts
+
+- The fiscal year runs 1 June to 31 May.
+- All funds, bank and payment accounts, domains, and online accounts are held in CGW's name, never in anyone's personal account.
+- At least two directors can access each account.
+
 ## Controls
 
 - The Treasurer reconciles every account monthly and posts the zone and Teacher Fund balances.

@@ -15,8 +15,8 @@
 Depending on what happened, the board may:
 - give a warning;
 - limit someone's access for a set time;
-- suspend someone's access immediately (bylaws 2.6);
-- suspend or expel a member, with the notice and hearing required by bylaws 2.5.
+- suspend someone's access immediately (bylaws 2.5);
+- suspend or expel a member, with the notice and hearing required by bylaws 2.4.
 
 A director who is involved in the matter takes no part in the decision. Decisions are recorded in closed-session minutes.
 
