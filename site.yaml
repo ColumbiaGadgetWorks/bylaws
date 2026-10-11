@@ -1,0 +1,22 @@
+# Pages the CGW website builds from this repository, in the order they are listed.
+# The website reads this file at build time (content/policies/_content.gotmpl in
+# ColumbiaGadgetWorks/website). Add a file here to publish it; remove it to unpublish.
+# status: "draft" shows a "not yet adopted" banner on every page; set "adopted" after the vote.
+status: draft
+pages:
+  - file: bylaws.md
+    slug: bylaws
+  - file: policies/how-we-decide.md
+    slug: how-we-decide
+  - file: policies/membership.md
+    slug: membership
+  - file: policies/conduct-and-safety.md
+    slug: conduct-and-safety
+  - file: policies/conflict-and-discipline.md
+    slug: conflict-and-discipline
+  - file: policies/zones-and-roles.md
+    slug: zones-and-roles
+  - file: policies/money.md
+    slug: money
+  - file: policies/storage-and-donations.md
+    slug: storage-and-donations

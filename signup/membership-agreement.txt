@@ -1,66 +1,67 @@
 COLUMBIA GADGET WORKS
-MEMBERSHIP AGREEMENT
+MEMBER AGREEMENT
 
-This agreement is between me and Columbia Gadget Works ("CGW"). The rules below summarize CGW's Bylaws and Policies, which are posted on the wiki. Where this summary and the posted Bylaws and Policies differ, the posted version controls.
+This agreement is between me and Columbia Gadget Works ("CGW"). It summarizes CGW's bylaws and policies, which are published at columbiagadgetworks.org/policies/. Where this summary and the published bylaws and policies differ, the published version controls.
 
 1. BYLAWS AND POLICIES
 
-I agree to follow CGW's Bylaws and Policies, and the zone rules posted by each Zone Boss. The board may change the policies by majority vote, and a change takes effect when it is posted, dated, on the wiki. Only the members can change the bylaws.
+I agree to follow CGW's bylaws and policies, and the zone rules each Zone Boss posts on the zone's wiki page. The board may change the policies by majority vote at any time, and a change takes effect when it is published. Only the members can change the bylaws.
 
 2. BECOMING A MEMBER
 
-I become a member once I have a signed liability waiver on file, have completed the safety orientation, and have paid my dues or been approved for a scholarship. I get no door code until I have completed orientation. The minimum age is 16, and a member under 18 needs a parent or guardian to sign the waiver.
+I become a member once I have signed the waiver and this agreement and my dues are current, or the board has approved a hardship waiver for me. I get my badge after I complete the safety orientation, about 20 minutes with a director or Zone Boss.
+
+Members are 18 or older. A person aged 16 or 17 may be a member if a parent or guardian also signs the waiver and this agreement.
 
 3. DUES
 
-- Dues cover a calendar month. My dues are set by my membership type (Standard, Supporter, Scholarship, or Legacy), and every type has the same rights, including the vote.
-- If a month is still unpaid on the 16th of the following month, my door access is turned off.
-- My membership ends 30 days after CGW emails me written notice of unpaid dues, unless I pay.
-- I can cancel at any time. Rejoining later does not require back-dues.
+- My dues depend on my membership type: Standard ($50 a month, or quarterly), Supporter ($100 a month), Hardship ($0, approved by the board for 12 months at a time), or Legacy ($40 a month, for members already paying $40, until the new bylaws are adopted). Every type has the same rights, including the vote.
+- If a payment fails or is cancelled, CGW sends me reminder emails. If my dues are still unpaid 30 days after the missed payment, my membership ends and my badge is turned off. Time I have already paid for always runs out first.
+- I can cancel at any time, and I can rejoin later without paying back dues.
 
-4. DOOR ACCESS
+4. MY BADGE
 
-My door code or credential is personal to me. I will not share it. If I let someone in and leave them unattended, I lose access for two weeks. I will return any physical key, card, or fob when my membership ends.
+My badge is mine. I will not lend it. If I let someone in, I stay with them. I will return any physical key, card, or fob when my membership ends.
 
 5. GUESTS AND VISITORS
 
-Open Hack Night is free and open to the public on Thursdays at 6 pm. At any other time, a guest may be in the space only while I host them. I stay with my guest the whole time, I am responsible for them, and they sign the waiver before entering the work area. A guest under 16 needs a parent or guardian present.
+I may bring a guest. My guest signs the waiver before entering the work area, and I stay with them the whole time. Open Hack Night, Thursdays from 6 to 8 pm, is free and open to everyone, and every visitor signs the waiver. A child under 16 may attend Open Hack Night and classes only with a parent or guardian present the whole time.
 
 6. SAFETY
 
-- I use a checkout-gated tool only after a recorded checkout.
-- I do not use tools while impaired by alcohol or drugs.
-- Anyone may stop unsafe work on the spot, and I will stop when asked. A Zone Boss or board member may bar me from a tool for the rest of the day.
-- I report injuries and near-misses to the board within 24 hours, and breakage to the Zone Boss or on Discord the same day. Reporting is never punished; hiding damage is.
-- A Zone Boss may decide that I pay for damage I cause in their zone.
+- I use only the tools I am trained on, and a checkout-gated tool only once I have a recorded checkout on it.
+- I wear eye protection around machines, and I do not operate anything while impaired by alcohol or drugs.
+- Anyone may stop unsafe work on the spot, and I stop when asked. A Zone Boss or director may bar me from a tool for the rest of the day; any longer bar is the board's decision.
+- I report any injury or near-miss to a director within 24 hours, and any breakage to the Zone Boss or on Discord the same day. Reporting damage never gets anyone in trouble; hiding it does.
+- The Zone Boss decides who pays for damage in their zone.
 
 7. CONDUCT
 
-I treat people with respect. I do not harass, threaten, or discriminate against anyone on the basis of any personal characteristic, in the space, at CGW events, or on CGW's online channels. I clean up my mess, and I keep politics and religion out of the shop.
+I am welcoming, respectful, and considerate. I clean up after myself, put tools back, and do not hog a machine. I keep politics and religion out of the shop. I do not harass, discriminate against, threaten, or intimidate anyone, in the space, at CGW events, or on CGW's online channels, and I stop immediately if asked to stop a behavior. I can raise a problem with any director or Zone Boss, or at mail@columbiagadgetworks.org.
 
 8. ZONES
 
-Each zone is run by a Zone Boss, who decides how that zone works. If I disagree with a zone rule, I take it to the Zone Boss, whose decision stands. If I think a Zone Boss has acted outside their authority, I can ask the board to rule on that question.
+Each zone is run by a Zone Boss. If I disagree with a zone rule, the Zone Boss decides and owes me one reason. If I think a Zone Boss acted outside their authority, I can ask the board to decide that question.
 
 9. CONFLICTS AND DISCIPLINE
 
-- If I have a conflict with another member, I first try to talk it through directly, where that is safe. If that fails, I take it to one of the two Peace Officers named on the wiki, and if mediation fails, the board decides.
-- Harassment, threats, and safety issues go straight to any board member or Peace Officer.
-- The board may warn me, restrict my access for a set time, or suspend my access. Two board members may suspend my access immediately when there is a risk to safety, property, or a person, and the board must confirm it within 14 days.
-- I can be expelled only after 15 days' written notice with the reasons, a chance to be heard by the board, and a two-thirds vote of the board.
+- If I have a disagreement with another member, I first try to talk it through directly, where that is safe. If that fails, I ask a director who is not involved to help, and if that fails, the board decides.
+- Harassment, threats, and safety problems go straight to any director.
+- The board may warn me or limit my access for a set time. When safety, property, or a person is at risk, any two directors may suspend my access immediately; the suspension ends after 14 days unless the board confirms it.
+- I can be suspended or expelled as a member only after written notice with the reasons at least 15 days beforehand, a chance to be heard by the board at least 5 days before it takes effect, and a two-thirds vote of the directors.
 
 10. STORAGE AND DONATIONS
 
-- I get one labeled storage bin, included in my dues, and its lid must close.
-- Projects I leave in a zone carry my name and the date, for as long as the Zone Boss allows.
-- Unlabeled items are moved to storage with a photo posted on Discord, and go to the free shelf after one week.
-- I keep walkways, electrical panels, and machine working areas clear.
-- When my membership ends, I have 30 days to remove my belongings.
-- I offer donations to a Zone Boss before bringing them in. Items dropped off unannounced are thrown away.
+- I get one labeled bin, included in my dues. If the lid won't close, it is too full.
+- An active project I leave in a zone carries a tag with my name and the date, for as long as the Zone Boss allows.
+- Anything unlabeled is moved to the storage area with a photo posted on Discord, and goes to the free shelf after one week.
+- I never store anything in a walkway, in front of an electrical panel, or inside a machine's working area.
+- When my membership ends, I have 30 days to clear out my things.
+- I ask before bringing a donation. Anything left without approval is thrown away.
 
 11. RECORDS AND COMMUNICATION
 
-CGW keeps my name, contact details, signed documents, photo ID, and payment history in its membership records, uses them to run my membership, and does not sell them. CGW sends official notices, including notices of member meetings and of unpaid dues, by email to the address it has for me, and I will keep that address current.
+CGW keeps my name, contact details, signed documents, photo ID, and payment history in its membership records, uses them to run my membership, and does not sell them. Whether I hold a hardship waiver is kept confidential. CGW sends official notices, including notices of member votes and of missed dues, by email to the address on my member record, and I will keep that address current.
 
 12. NO OWNERSHIP
 

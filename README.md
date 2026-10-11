@@ -1,32 +1,33 @@
-# CGW governing documents
+# Columbia Gadget Works: bylaws and policies
 
-| File | What it is | Changed by |
-|---|---|---|
-| `signup/waiver.txt` | Liability waiver every member, guest, and visitor signs | Board vote |
-| `signup/membership-agreement.txt` | Agreement every member signs at signup | Board vote |
+The official text of CGW's bylaws and policies. The website's [policies pages](https://columbiagadgetworks.org/policies/) are built directly from this repository; there is no other copy.
 
-The bylaws and policies draft these follow is `governance/bylaws-and-policies/bylaws-and-policies.md`
-on the `bylaws-and-policies-draft` branch of CGWManagement (24 Sep 2026, not adopted).
-The membership agreement summarizes Part B; when a policy changes, update the agreement in the
-same pull request.
+**Status: draft.** Nothing here is adopted until the members vote at the annual meeting.
 
-## How a change reaches the signup page
+| File | What it covers |
+|---|---|
+| [`bylaws.md`](bylaws.md) | The bylaws. Changed only by the members, by a two-thirds vote |
+| [`policies/how-we-decide.md`](policies/how-we-decide.md) | How to propose a change and how voting works. **Start here** |
+| [`policies/membership.md`](policies/membership.md) | Joining, age, dues, missed dues, guests |
+| [`policies/conduct-and-safety.md`](policies/conduct-and-safety.md) | Code of conduct and shop safety |
+| [`policies/conflict-and-discipline.md`](policies/conflict-and-discipline.md) | Resolving disputes, and what the board can do |
+| [`policies/zones-and-roles.md`](policies/zones-and-roles.md) | Zones, Zone Bosses, Leads, and what each decides |
+| [`policies/money.md`](policies/money.md) | Spending limits, zone balances, classes |
+| [`policies/storage-and-donations.md`](policies/storage-and-donations.md) | Bins, project tags, the donation shelf |
+| [`signup/waiver.txt`](signup/waiver.txt) | Liability waiver every member, guest, and visitor signs |
+| [`signup/membership-agreement.txt`](signup/membership-agreement.txt) | Member agreement signed at signup; summarizes the policies above |
+| `site.yaml` | Which files the website publishes |
 
-1. Edit the `.txt` file in a pull request. The pull request is the review and approval record.
-2. Merge after the board approves the wording (record the vote in the minutes).
-3. Tag the merge: `waiver-YYYY-MM-DD` or `agreement-YYYY-MM-DD`.
-4. In Dolibarr, Members > Onboarding setup, paste the file's full text into the waiver or
-   agreement box and save. Everyone who signed earlier keeps a copy of exactly what they signed;
-   the module versions each wording by its content.
+## Proposing a change
 
-The files are plain text on purpose: the onboarding module shows them exactly as written.
+Open a pull request that edits the file, or open an issue describing what you want. **Policy** changes are board votes: after 7 days for member comment, the change passes when 3 of the 5 directors approve the pull request. **Bylaw** changes and elections are member votes: they are decided by secret ballot, not on GitHub, and the pull request only holds the text being voted on. Details: [`policies/how-we-decide.md`](policies/how-we-decide.md).
 
-## Before the first real use
+## The signup documents
 
-- Have a Missouri attorney read the waiver. It follows the rule from *Alack v. Vic Tanny* (Mo.
-  1996) that a release of negligence must say "negligence" plainly and conspicuously, but it has
-  not been reviewed by a lawyer.
-- Settle the open numbers in the policies draft that appear here: minimum age 16, the 30-day
-  notice before membership ends, and the two-week penalty for leaving someone unattended.
-- The online signup is for adults. A 16- or 17-year-old signs a paper waiver together with a
-  parent or guardian.
+`signup/` holds the waiver and member agreement the online signup shows. They are plain text because the Dolibarr onboarding module displays them exactly as written. When a policy the agreement summarizes changes, update the agreement in the same pull request. Once a change is merged, paste the new text into Members > Onboarding setup in Dolibarr; everyone who signed earlier keeps a copy of exactly what they signed.
+
+Before the first real use, a Missouri attorney should review the waiver. It follows *Alack v. Vic Tanny* (Mo. 1996), which requires a release of negligence to say "negligence" plainly and conspicuously, but no lawyer has read it yet.
+
+## Order of authority
+
+Missouri law (RSMo ch. 355) → Articles of Incorporation → bylaws → policies → zone rules on the wiki.
