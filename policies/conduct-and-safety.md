@@ -11,7 +11,7 @@ CGW exists so people of every background and skill level can learn and build tog
 - **Be safe.** Use only the tools you're trained on, and a checkout-gated tool only once you're checked out on it. Wear eye protection around machines. Don't operate anything while impaired by alcohol or drugs.
 - **Be considerate.** Clean up after yourself, put tools back, and don't hog a machine.
 - **Be honest.** If you break something, say so the same day, to the Zone Boss or on Discord. Reporting damage never gets anyone in trouble. Hiding it does.
-- **Keep politics and religion out of the shop.**
+- **No campaigning or proselytizing in the shop.** Don't campaign for candidates or causes, or try to convert anyone.
 
 ## We won't tolerate
 
