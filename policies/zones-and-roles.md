@@ -12,10 +12,11 @@ The classroom, kitchen, entrance, donation shelf, and Open Hack Night are not pa
 
 | Role | How appointed | Term |
 |---|---|---|
-| **Zone Boss** | By the board, one per zone; reports to the Shop Steward | Ends 30 April. Every role is reappointed together each year |
-| **Lead** | By the board, for a job that isn't a place (membership, classes, systems…) | Ends 30 April |
+| **Zone Boss** | By the board, one per zone; reports to the Vice President | Ends 30 April. Every role is reappointed together each year |
+| **Lead** | By the board, for a job that isn't a place (classes, systems, events…) | Ends 30 April |
 | **Deputy** | By a Zone Boss or Lead, no board approval | Until the person who appointed them says otherwise |
 
+- Anyone in a role stays in it until reappointed or replaced, even past 30 April.
 - Anyone in these roles may resign at any time. The board may remove anyone in these roles at any time by majority vote, and records the reason in the minutes.
 - **Two-roles rule.** No one holds more than two of: board seat, Zone Boss, Lead.
 - A director who is a Zone Boss does not vote on their own zone's budget or appointment.
@@ -41,6 +42,5 @@ The classroom, kitchen, entrance, donation shelf, and Open Hack Night are not pa
 
 - Keep the zone's wiki page current.
 - Walk and tidy the zone every month.
-- Run at least one class a quarter.
 - Answer member requests within a week, even if the answer is no.
 - Before each quarterly board meeting, post five lines on the zone's wiki page: what changed, what's broken, spending and balance, classes, and what the zone needs from the board.

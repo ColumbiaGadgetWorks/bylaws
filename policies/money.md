@@ -10,7 +10,7 @@
 | **Lead** | Within the budget the board gives them | The board approves anything beyond that budget |
 | **Director** | Within the adopted budget | Two directors approve (see below) |
 
-**Two-signature rule.** Any single expense over [$500], and every contract or recurring cost, must be approved by two directors, one of them the President or the Treasurer. This applies no matter who is spending, so no one person can commit a large amount of CGW's money alone.
+**Two-signature rule.** Any single expense over $250, and every contract or recurring cost, must be approved by two directors, one of them the President or the Treasurer. This applies no matter who is spending, so no one person can commit a large amount of CGW's money alone.
 
 No one approves a payment to themselves. Receipts go to the Treasurer within 30 days.
 
@@ -27,7 +27,7 @@ Zones get no share of dues.
 ## Classes
 
 - **Prices.** Three tiers: $9.96, $19.96, and $29.96 for members. Non-members pay $10 more.
-- **Teacher Fund.** The instructor may take up to 50% of a class's revenue, capped at $500 per person per calendar year and paid quarterly. Whatever the instructor doesn't take goes to the zone.
+- **Teacher Fund.** The instructor may take up to 50% of a class's revenue, capped at $500 per person per calendar year and paid quarterly. Whatever the instructor doesn't take goes to the zone. A director who teaches doesn't vote on Teacher Fund rates (`conflict-of-interest.md`).
 - **Grant-funded classes** are free and pay no instructor share.
 
 ## Accounts
@@ -40,4 +40,5 @@ Zones get no share of dues.
 
 - The Treasurer reconciles every account monthly and posts the zone and Teacher Fund balances.
 - The board adopts a budget before each fiscal year starts on 1 June.
+- Supporter dues receipts show $50 as payment for membership and $50 as a tax-deductible donation, as the IRS requires for a payment over $75 that buys something in return.
 - Undirected donations go to the general fund. CGW acknowledges gifts in writing on request. It does not appraise donated items.

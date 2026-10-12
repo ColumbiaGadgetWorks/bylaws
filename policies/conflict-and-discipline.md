@@ -14,11 +14,15 @@
 
 Depending on what happened, the board may:
 - give a warning;
-- limit someone's access for a set time;
+- limit someone's access for up to 30 days (anything longer is a suspension under bylaws 2.4);
 - suspend someone's access immediately (bylaws 2.5);
 - suspend or expel a member, with the notice and hearing required by bylaws 2.4.
 
 A director who is involved in the matter takes no part in the decision. Decisions are recorded in closed-session minutes.
+
+## Complaints about a director
+
+A complaint about a director goes to any two directors who aren't involved. They handle it as the board would, and the director it concerns takes no part. If fewer than two directors are uninvolved, for example when the complaint is about the whole board, the board asks an outside mediator to handle it.
 
 ## Zone disputes
 

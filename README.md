@@ -2,7 +2,7 @@
 
 The official text of CGW's bylaws and policies. The website's [policies pages](https://columbiagadgetworks.org/policies/) are built directly from this repository; there is no other copy.
 
-**Status: draft.** Nothing here is adopted until the members vote at the annual meeting.
+**Status: draft.** The board plans to adopt the policies before the April 2027 annual meeting. The bylaws are CGW's first; the board adopts them subject to the members' vote at that meeting, and they take effect only if two-thirds of the members voting ratify them.
 
 | File | What it covers |
 |---|---|
@@ -13,6 +13,7 @@ The official text of CGW's bylaws and policies. The website's [policies pages](h
 | [`policies/conflict-and-discipline.md`](policies/conflict-and-discipline.md) | Resolving disputes, and what the board can do |
 | [`policies/zones-and-roles.md`](policies/zones-and-roles.md) | Zones, Zone Bosses, Leads, and what each decides |
 | [`policies/money.md`](policies/money.md) | Spending limits, zone balances, classes |
+| [`policies/conflict-of-interest.md`](policies/conflict-of-interest.md) | Disclosing conflicts, and the yearly statement |
 | [`policies/storage-and-donations.md`](policies/storage-and-donations.md) | Bins, project tags, the donation shelf |
 | [`signup/waiver.txt`](signup/waiver.txt) | Liability waiver every member, guest, and visitor signs |
 | [`signup/membership-agreement.txt`](signup/membership-agreement.txt) | Member agreement signed at signup; summarizes the policies above |

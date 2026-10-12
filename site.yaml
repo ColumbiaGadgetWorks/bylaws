@@ -18,5 +18,7 @@ pages:
     slug: zones-and-roles
   - file: policies/money.md
     slug: money
+  - file: policies/conflict-of-interest.md
+    slug: conflict-of-interest
   - file: policies/storage-and-donations.md
     slug: storage-and-donations
