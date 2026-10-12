@@ -7,7 +7,7 @@ CGW makes decisions in two separate ways:
 | | **Member votes** | **Board votes** |
 |---|---|---|
 | Decides | Who sits on the board; what the bylaws say; dissolution or merger | Everything else: all policy, the budget, appointments, discipline |
-| Who votes | Every member in good standing | The five directors |
+| Who votes | Every full member in good standing (not hardship or legacy members) | The five directors |
 | When | The annual meeting (second Thursday of April), or a special vote | Any time |
 | How | Secret ballot online. The Secretary and tellers record who voted and the totals | Reviews on a GitHub pull request, or a vote at a board meeting |
 | Passes with | Quorum, then a majority (two-thirds for bylaw changes) | 3 of the 5 directors |
@@ -64,7 +64,7 @@ Bylaw changes and elections are not decided on GitHub. GitHub only holds the tex
 3. **Notice.** Sent 10 to 60 days before voting opens, with a link to the tagged text and a PDF copy (bylaws 5.4).
 4. **Nominations** open with the notice and close 7 days before voting opens. Any eligible member may nominate themselves, or another member who agrees. Each candidate runs for one seat only.
 5. **Tellers.** With the notice, the board appoints one or two members who are not candidates as tellers.
-6. **Voter roll.** On the day voting opens, the Secretary or a teller exports the list of members in good standing from Dolibarr.
+6. **Voter roll.** On the day voting opens, the Secretary or a teller exports the list of full members in good standing from Dolibarr. The roll is kept confidential, because it shows who holds a hardship waiver.
 7. **Ballot.** Online only. An online ballot service (for example Helios Voting) emails each member on the roll a personal link to a secret ballot. The notice names the service. The ballot is open at least 7 days and closes at the time stated in the notice. At the annual meeting, a laptop is set up for members who haven't voted yet. A member without email asks the Secretary or a teller for their link another way.
 8. **Counting.** The service counts the ballots. The Secretary and the tellers certify the result and post it on the PR: eligible voters, ballots cast, whether quorum was met, the yes/no/abstain counts, and the outcome.
 9. **Adoption.** If the vote passes, the Secretary merges the PR. If it fails, the PR is closed and kept on record.

@@ -5,7 +5,7 @@ This agreement is between me and Columbia Gadget Works ("CGW"). It summarizes CG
 
 1. BYLAWS AND POLICIES
 
-I agree to follow CGW's bylaws and policies, and the zone rules each Zone Boss posts on the zone's wiki page. The board may change the policies by majority vote at any time, and a change takes effect when it is published. Only the members can change the bylaws.
+I agree to follow CGW's bylaws and policies, and the zone rules each Zone Boss posts on the zone's wiki page. The board may change the policies at any time by a vote of at least three directors, and a change takes effect when it is published. Only the members can change the bylaws.
 
 2. BECOMING A MEMBER
 
@@ -15,8 +15,8 @@ Members are 18 or older. A person aged 16 or 17 may be a member if a parent or g
 
 3. DUES
 
-- My dues depend on my membership type: Standard ($50 a month, or quarterly), Supporter ($100 a month, of which $50 is a tax-deductible donation), Hardship ($0, approved by the board for 12 months at a time), or Legacy ($40 a month, for members already paying $40, until the new bylaws are adopted). Every type has the same rights, including the vote.
-- If a payment fails or is cancelled, CGW sends me reminder emails. If my dues are still unpaid 30 days after the missed payment, my membership ends and my badge is turned off. Until then I keep my vote. Time I have already paid for always runs out first.
+- My dues depend on my membership type: Standard ($50 a month, or quarterly), Supporter ($100 a month, of which $50 is a tax-deductible donation), Hardship ($0, approved by the board for 12 months at a time), or Legacy ($40 a month, for members already paying $40, until the new bylaws are adopted). Standard and Supporter members are full members and vote. Hardship and Legacy members do not vote or hold a board seat, but otherwise have the same rights and use of the space.
+- If a payment fails or is cancelled, CGW sends me reminder emails. If my dues are still unpaid 30 days after the missed payment, my membership ends and my badge is turned off. Until then, if I am a full member, I keep my vote. Time I have already paid for always runs out first.
 - I can cancel at any time, and I can rejoin later without paying back dues.
 
 4. MY BADGE
@@ -67,6 +67,6 @@ I agree to receive official CGW notices and ballots by email, including notices 
 
 12. NO OWNERSHIP
 
-Membership gives me a vote and the use of the space under these rules. It gives me no ownership of CGW or its property, and it cannot be transferred. I may resign at any time.
+Membership gives me the use of the space under these rules, and, as a full member, a vote. It gives me no ownership of CGW or its property, and it cannot be transferred. I may resign at any time.
 
 By signing, I confirm that I have read this agreement and agree to follow it.

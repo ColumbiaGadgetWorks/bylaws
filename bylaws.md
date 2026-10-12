@@ -20,9 +20,14 @@ These bylaws hold only what Missouri law requires, what protects members, and wh
 
 ## 2. Members
 
-2.1 **One class.** CGW has one class of voting member. A person is a member while they meet the requirements set by policy: a signed waiver and member agreement, and current dues or an approved dues waiver. Every member has the same rights, whatever they pay. Members aged 16 or 17 vote like any other member.
+2.1 **Classes.** CGW has three classes of member:
+- **Full members** pay full dues, at any rate policy sets. Only full members vote. Full members aged 16 or 17 vote like any other full member.
+- **Hardship members** have a dues waiver the board approved. They do not vote.
+- **Legacy members** pay the legacy rate policy sets. They do not vote.
 
-2.2 **Good standing.** A member is in good standing from the day they join until their membership ends, unless they are suspended. Only members in good standing may vote or hold office.
+A person is a member while they meet the requirements set by policy for their class: a signed waiver and member agreement, and current dues or an approved dues waiver. Apart from voting and holding office, every member has the same rights and the same use of the Space, whatever their class.
+
+2.2 **Good standing.** A member is in good standing from the day they join until their membership ends, unless they are suspended. Only full members in good standing may vote or hold office.
 
 2.3 **Ending membership.** Membership ends when a member resigns, stops paying as policy describes, or is expelled. Membership gives no ownership of CGW property and cannot be transferred.
 
@@ -39,13 +44,13 @@ These bylaws hold only what Missouri law requires, what protects members, and wh
 
 3.1 **Composition.** The board has five directors: the President, Vice President, Secretary, Treasurer, and Membership Director. Members elect each seat separately.
 
-3.2 **Terms.** Directors are elected at each annual meeting and serve until the next one, or until a successor is elected. Any member in good standing who is 18 or older may run. No one holds more than one seat.
+3.2 **Terms.** Directors are elected at each annual meeting and serve until the next one, or until a successor is elected. Any full member in good standing who is 18 or older may run. No one holds more than one seat.
 
 3.3 **Powers.** The board manages CGW. It decides everything not reserved to the members, including policy, the budget, contracts, appointments, membership, and discipline.
 
 3.4 **Meetings.** The board meets at least quarterly, and announces each regular meeting to members at least 7 days ahead. Directors may attend by video or phone. The President or any two directors may call a special meeting on 48 hours' notice to the directors. Meetings are open to members, except closed sessions on discipline, personnel, hardship applications, or legal matters.
 
-3.5 **Vacancies.** A seat becomes vacant when a director resigns, is removed, or stops being a member in good standing. The board fills a vacancy by appointing an eligible member until the next annual meeting. A director removed by the members may not be appointed again before the next annual meeting. If fewer than three directors remain, they may act only to fill vacancies or to call a member vote, and they must call a member vote to fill the empty seats.
+3.5 **Vacancies.** A seat becomes vacant when a director resigns, is removed, or stops being a full member in good standing. The board fills a vacancy by appointing an eligible full member until the next annual meeting. A director removed by the members may not be appointed again before the next annual meeting. If fewer than three directors remain, they may act only to fill vacancies or to call a member vote, and they must call a member vote to fill the empty seats.
 
 3.6 **Removal.** Members may remove a director by member vote. The board may remove a director who, without being excused, misses two regular meetings in a row or half of the regular meetings in any twelve months.
 
@@ -89,7 +94,7 @@ Only members can amend these bylaws.
 
 5.2 **Annual meeting.** The annual meeting is held each April, on a date the board sets. Members elect the board there, and the Treasurer reports on the year's finances.
 
-5.3 **Calling a vote.** The board may call a member vote at any time. If at least 5% of members, and at least 3, ask for one in writing, the board must send notice of it within 30 days, and voting must close within 90 days of the request. If the board does not send notice in time, the members who asked may send it themselves.
+5.3 **Calling a vote.** The board may call a member vote at any time. If at least 5% of full members, and at least 3, ask for one in writing, the board must send notice of it within 30 days, and voting must close within 90 days of the request. If the board does not send notice in time, the members who asked may send it themselves.
 
 5.4 **Notice.** Between 10 and 60 days before voting opens, the Secretary sends notice to every member: by email to members who have agreed to receive notices by email, at the address on their member record, and by mail to anyone else. The Secretary also posts it in the member chat channel. The notice states:
 - each question, with the full text of any bylaw change;
@@ -97,11 +102,11 @@ Only members can amend these bylaws.
 - the quorum;
 - the share of votes needed to pass.
 
-5.5 **Who votes.** Any member in good standing on the day voting opens may vote, with one vote each. Proxy voting is not allowed.
+5.5 **Who votes.** Any full member in good standing on the day voting opens may vote, with one vote each. Proxy voting is not allowed.
 
 5.6 **Casting and recording votes.** Members vote by secret ballot, using the method set by policy. For each member vote, the board appoints one or two tellers from members who are not candidates. The Secretary and the tellers run the vote, record who voted and the totals, never how anyone voted, and certify the result. If the Secretary is a candidate, the tellers run the vote without the Secretary. A ballot stays open for at least 7 days. When there is a meeting, the ballot closes during it, at the time stated in the notice.
 
-5.7 **Quorum.** A vote counts only if at least 10% of eligible members, and no fewer than 5, cast a ballot. Abstentions count toward quorum but are not votes cast. If a vote fails for lack of quorum, the directors stay in office and the board holds the vote again within 60 days.
+5.7 **Quorum.** A vote counts only if at least 10% of full members eligible to vote, and no fewer than 5, cast a ballot. Abstentions count toward quorum but are not votes cast. If a vote fails for lack of quorum, the directors stay in office and the board holds the vote again within 60 days.
 
 5.8 **Passing.** A question passes by a majority of votes cast, except that amending these bylaws, dissolution, merger, or the sale of substantially all assets needs two-thirds of votes cast.
 
@@ -114,7 +119,7 @@ Only members can amend these bylaws.
 
 5.10 **Corrections.** The Secretary may correct typos, formatting, and cross-references in these bylaws without a vote if the meaning does not change, and lists each correction in the next member-vote notice.
 
-5.11 **Adoption.** These are CGW's first bylaws. The board adopts them subject to ratification by the members, and they take effect when ratified under 5.7 and 5.8. For the ratification vote, the members are the people who meet section 2 on the day voting opens. The board election held with the ratification vote is conducted under these bylaws, and it takes effect only if they are ratified. If they are not ratified, the directors stay in office and put revised bylaws to the members within 120 days. The date and result of each ratifying or amending vote are recorded in the governance repository.
+5.11 **Adoption.** These are CGW's first bylaws. The board adopts them subject to ratification by the members, and they take effect when ratified under 5.7 and 5.8. For the ratification vote, the voters are the people who are full members under section 2 on the day voting opens. The board election held with the ratification vote is conducted under these bylaws, and it takes effect only if they are ratified. If they are not ratified, the directors stay in office and put revised bylaws to the members within 120 days. The date and result of each ratifying or amending vote are recorded in the governance repository.
 
 ### Board votes
 

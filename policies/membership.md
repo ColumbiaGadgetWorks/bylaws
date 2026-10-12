@@ -29,13 +29,13 @@ Board seats are open only to members 18 or older.
 | Hardship | $0 | Apply privately to the board. Lasts 12 months and can be renewed. The board decides each application on its own merits |
 | Legacy | $40 a month | Only for members already paying $40. Ends when the new bylaws are adopted |
 
-Every type has the same rights, including the vote. Who holds a hardship waiver is kept confidential.
+Standard and Supporter members are **full members** and vote. **Hardship and Legacy members do not vote** and can't hold a board seat (bylaws 2.1); otherwise every type has the same rights and use of the Space. Who holds a hardship waiver is kept confidential: only the board, the Secretary, and the tellers see it, through the voter roll.
 
 ## Missed dues
 
 - If a payment fails or is cancelled, Dolibarr sends reminder emails after 3, 7, and 14 days.
 - If dues are still unpaid 30 days after the missed payment, membership ends and the badge is turned off. Time you've already paid for always runs out first.
-- Until your membership ends, you stay a member in good standing, vote included.
+- Until your membership ends, you stay a member in good standing, and a full member keeps their vote.
 - You can rejoin any time. No back dues.
 
 ## Access
