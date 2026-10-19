@@ -1,6 +1,6 @@
 # Money
 
-*Proposed policy, for member endorsement on 8 April 2027. Not yet adopted.*
+*Proposed policy. The board adopts it to take effect with the bylaws. Not yet adopted.*
 
 ## Who can spend what
 

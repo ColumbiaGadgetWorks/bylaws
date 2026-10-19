@@ -1,6 +1,6 @@
 # Bylaws of Columbia Gadget Works
 
-*Ballot text v6, 19 October 2026. Proposed for ratification by the members at the annual meeting on Thursday 8 April 2027 (see `ballot.md`). Not yet in effect.*
+*Ballot text v7, 19 October 2026. Proposed for ratification by the members at the annual meeting on Thursday 8 April 2027 (see `ballot.md`). Not yet in effect.*
 
 These bylaws hold only what Missouri law requires, what protects members, and what should be hard to change. Everything else is policy (`policies/`), which the board can change at any time.
 
@@ -92,34 +92,37 @@ Policy names the tools CGW uses for votes and notices: the governance repository
 
 Only members can amend these bylaws.
 
-5.2 **Annual meeting.** The annual meeting is held each April, on a date the board sets. Members elect the board there, and the Treasurer reports on the year's finances.
+5.2 **Annual meeting.** The annual meeting is held each April, on a date the board sets. Members discuss the proposed bylaw changes and meet the candidates there, and voting on the bylaws and the board opens during it. The Treasurer reports on the year's finances.
 
 5.3 **Calling a vote.** The board may call a member vote at any time. If at least 5% of full members, and at least 3, ask for one in writing, the board must send notice of it within 30 days, and voting must close within 90 days of the request. If the board does not send notice in time, the members who asked may send it themselves.
 
-5.4 **Notice.** Between 10 and 60 days before voting opens, the Secretary sends notice to every member: by email to members who have agreed to receive notices by email, at the address on their member record, and by mail to anyone else. The Secretary also posts it in the member chat channel. The notice states:
-- each question, with the full text of any bylaw change;
+5.4 **Notice.** Between 14 and 60 days before voting opens, the Secretary emails notice to every member who will be able to vote, at the address on their member record, and posts it in the member chat channel. Members receive notices and ballots by email; it is part of the member agreement. The notice states:
+- each question, with the proposed text of any bylaw change;
+- how to run for a seat;
 - how and when to vote, including when voting closes;
 - the quorum;
 - the share of votes needed to pass.
 
-5.5 **Who votes.** Any full member in good standing on the day voting opens may vote, with one vote each. Proxy voting is not allowed.
+At a meeting, members may change the proposed text before voting opens. Each ballot carries the final text.
 
-5.6 **Casting and recording votes.** Members vote by secret ballot, using the method set by policy. For each member vote, the board appoints one or two tellers from members who are not candidates. The Secretary and the tellers run the vote, record who voted and the totals, never how anyone voted, and certify the result. If the Secretary is a candidate, the tellers run the vote without the Secretary. A ballot stays open for at least 7 days. When there is a meeting, the ballot closes during it, at the time stated in the notice.
+5.5 **Who votes.** A full member in good standing may vote if they have been a member for at least 30 days on the day voting opens. Each has one vote. Proxy voting is not allowed.
+
+5.6 **Casting and recording votes.** Members vote by secret ballot, by email link, through the member records system. It records who voted and the totals, never how anyone voted. The Secretary runs the vote, and the President does so if the Secretary cannot. When there is a meeting, the Secretary opens voting during it. Voting stays open for 8 days. When it closes, the result is posted in the governance repository: the number of eligible voters, the ballots cast, whether quorum was met, the totals for each question, and the outcome.
 
 5.7 **Quorum.** A vote counts only if at least 10% of full members eligible to vote, and no fewer than 5, cast a ballot. Abstentions count toward quorum but are not votes cast. If a vote fails for lack of quorum, the directors stay in office and the board holds the vote again within 60 days.
 
 5.8 **Passing.** A question passes by a majority of votes cast, except that amending these bylaws, dissolution, merger, or the sale of substantially all assets needs two-thirds of votes cast.
 
-5.9 **Elections.** Nominations open with the notice and close as policy sets.
+5.9 **Elections.** Nominations open with the notice and close when voting opens.
 - A candidate runs for only one seat.
-- The candidate with the most votes for a seat wins, and a tie goes to a runoff ballot.
+- The candidate with the most votes for a seat wins. The President breaks a tie; if the President is one of the tied candidates, the Secretary does, and if both are, it is decided by lot.
 - A seat with one candidate is on the ballot as a yes-or-no question, and the candidate is elected by a majority of votes cast.
 - A seat with no candidate, or whose only candidate is not elected, is a vacancy filled under 3.5.
 - There are no write-in votes.
 
 5.10 **Corrections.** The Secretary may correct typos, formatting, and cross-references in these bylaws without a vote if the meaning does not change, and lists each correction in the next member-vote notice.
 
-5.11 **Adoption.** These are CGW's first bylaws. The board adopts them subject to ratification by the members, and they take effect when ratified under 5.7 and 5.8. For the ratification vote, the voters are the people who are full members under section 2 on the day voting opens. The board election held with the ratification vote is conducted under these bylaws, and it takes effect only if they are ratified. If they are not ratified, the directors stay in office and put revised bylaws to the members within 120 days. The date and result of each ratifying or amending vote are recorded in the governance repository.
+5.11 **Adoption.** These are CGW's first bylaws. The board adopts them subject to ratification by the members, and they take effect when ratified under 5.7 and 5.8. For the ratification vote, the voters are the people who are full members under section 2, and have been members for at least 30 days, on the day voting opens. The board election held with the ratification vote is conducted under these bylaws, and it takes effect only if they are ratified. If they are not ratified, the directors stay in office and put revised bylaws to the members within 120 days. The date and result of each ratifying or amending vote are recorded in the governance repository.
 
 ### Board votes
 

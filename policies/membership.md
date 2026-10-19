@@ -1,6 +1,6 @@
 # Membership and access
 
-*Proposed policy, for member endorsement on 8 April 2027. Not yet adopted.*
+*Proposed policy. The board adopts it to take effect with the bylaws. Not yet adopted.*
 
 ## Joining
 
@@ -29,7 +29,7 @@ Board seats are open only to full members 18 or older.
 | Hardship | $0 | Apply privately to the board. Lasts 12 months and can be renewed. The board decides each application on its own merits |
 | Legacy | $40 a month | Only for members already paying $40. Ends when the new bylaws are adopted |
 
-Standard and Supporter members are **full members** and vote. **Hardship and Legacy members do not vote** and can't hold a board seat (bylaws 2.1); otherwise every type has the same rights and use of the Space. Who holds a hardship waiver is kept confidential: only the board, the Secretary, and the tellers see it, through the voter roll.
+Standard and Supporter members are **full members** and vote. **Hardship and Legacy members do not vote** and can't hold a board seat (bylaws 2.1); otherwise every type has the same rights and use of the Space. Who holds a hardship waiver is kept confidential: only the board and the Secretary see it, through the voter roll.
 
 ## Missed dues
 
@@ -49,4 +49,5 @@ Standard and Supporter members are **full members** and vote. **Hardship and Leg
 
 - CGW keeps your name, contact details, signed documents, ID photo, and payment history in Dolibarr, and never sells them.
 - Only directors can see ID photos. An ID photo is deleted 30 days after membership ends.
-- Official notices, including notices of member votes and ballots, go by email to members who agreed to that in the member agreement, and by mail to anyone who didn't.
+- Official notices, including notices of member votes and ballots, go by email to the address on your member record. Every member agrees to this in the member agreement.
+- Full members can vote once they have been members for 30 days (bylaws 5.5).
