@@ -38,13 +38,17 @@ A person is a member while they meet the requirements set by policy for their cl
 
 2.5 **Access suspension.** When safety, property, or a person is at risk, any two directors may immediately suspend someone's access to the Space or to a tool. The suspension ends after 14 days unless the board confirms it. It does not affect the member's vote.
 
-## 3. Board of directors
+## 3. Board of directors and officers
 
-3.1 **Composition.** The board has four directors: the President, Vice President, Secretary, and Treasurer. Members elect each seat separately.
+3.1 **Composition.** The board has four directors, and members elect each seat separately:
+- The **President** chairs meetings, sets agendas, and represents CGW.
+- The **Vice President** acts for the President when needed, and looks after the shop floor. Zone Bosses report to the Vice President, who oversees safety, facilities, and the space between zones.
+- The **Secretary** keeps the minutes and the official text of these bylaws and the policies, sends notices, and runs member votes.
+- The **Treasurer** keeps the books, prepares the budget and the annual financial report, and makes the state and IRS filings.
 
 3.2 **Terms.** Directors are elected at each annual meeting and serve until the next one, or until a successor is elected. Any full member in good standing who is 18 or older may run. No one holds more than one seat.
 
-3.3 **Powers.** The board manages CGW. It decides everything not reserved to the members, including policy, the budget, contracts, appointments, membership, and discipline.
+3.3 **Powers.** The board manages CGW. It decides everything not reserved to the members, including policy, the budget, contracts, appointments, membership, and discipline. It may assign directors further duties by policy.
 
 3.4 **Meetings.** The board meets at least quarterly, and announces each regular meeting to members at least 7 days ahead. Directors may attend by video or phone. The President or any two directors may call a special meeting on 48 hours' notice to the directors. Meetings are open to members.
 
@@ -56,64 +60,46 @@ A person is a member while they meet the requirements set by policy for their cl
 
 3.8 **Conflicts of interest.** A director or appointed volunteer with a personal financial interest in a decision must disclose it and must not vote on it. The minutes record both. No one approves a payment to themselves. The board keeps a conflict-of-interest policy.
 
-## 4. Officers
+3.9 **Signing.** The President or the Treasurer, or another director the board authorizes, signs contracts and other documents that bind CGW, within the spending limits set by policy.
 
-4.1 The **President** chairs meetings, sets agendas, and represents CGW.
+## 4. Voting
 
-4.2 The **Vice President** acts for the President when needed, and looks after the shop floor. Zone Bosses report to the Vice President, who oversees safety, facilities, and the space between zones.
+4.1 **What members decide.** Full members elect and remove directors, amend these bylaws, and approve dissolution, a merger, or the sale of substantially all of CGW's assets. The board may put any other question to them, and may call a member vote at any time.
 
-4.3 The **Secretary** keeps the minutes and the official text of these bylaws and the policies. The Secretary sends notices and runs member votes.
+4.2 **Annual meeting.** Held each April. Members discuss proposed bylaw changes and meet the candidates, and may change the proposed text. The Secretary opens voting during the meeting.
 
-4.4 The **Treasurer** keeps the books, prepares the budget and the annual financial report, and makes the state and IRS filings.
+4.3 **Notice.** 14 to 60 days before voting opens, the Secretary emails every voter the questions, the text of any bylaw change, how to run for a seat, and when voting opens and closes, and posts it in the member chat channel.
 
-4.5 **Signing.** The President or the Treasurer, or another director the board authorizes, signs contracts and other documents that bind CGW, within the spending limits set by policy.
+4.4 **Who votes.** Full members in good standing who have been members for at least 30 days when voting opens. One vote each; no proxies.
 
-4.6 The board may assign further duties by policy.
+4.5 **Ballot.** Secret ballot by email link, through the member records system, which records who voted and the totals but never how anyone voted. Voting stays open for 8 days. The Secretary runs the vote, or the President if the Secretary can't. The result is posted in the governance repository.
 
-## 5. Voting
+4.6 **Quorum and passing.** A vote counts if at least 10% of voters, and no fewer than 5, cast a ballot; abstentions count toward quorum but are not votes cast. A question passes by a majority of votes cast. Bylaw changes, dissolution, a merger, or the sale of substantially all assets need two-thirds. Without quorum, the directors stay in office and the vote is held again within 60 days.
 
-### Member votes
+4.7 **Elections.** Nominations close when voting opens. A candidate runs for one seat. The most votes wins, and a lone candidate needs a majority. The President breaks ties; if the President is tied, the Secretary does; if both are, it is decided by lot. No write-ins. A seat left empty is filled under 3.5.
 
-5.1 **What members decide.** Full members elect and remove directors, amend these bylaws, and approve dissolution, a merger, or the sale of substantially all of CGW's assets. The board may put any other question to them, and may call a member vote at any time.
+4.8 **Corrections.** The Secretary may fix typos and formatting in these bylaws without a vote.
 
-5.2 **Annual meeting.** Held each April. Members discuss proposed bylaw changes and meet the candidates, and may change the proposed text. The Secretary opens voting during the meeting.
+4.9 **First bylaws.** The board adopts these bylaws subject to ratification by the members, and they take effect when ratified. The board election held with the ratification vote counts only if they are ratified. If they are not, the directors stay in office and bring revised bylaws to the members within 120 days.
 
-5.3 **Notice.** 14 to 60 days before voting opens, the Secretary emails every voter the questions, the text of any bylaw change, how to run for a seat, and when voting opens and closes, and posts it in the member chat channel.
+4.10 **Board votes.** The board decides everything else, including all policy, by a vote of at least three directors. Directors may vote on a policy change in writing through the governance repository, and a policy takes effect when it is entered there. At a board meeting, three directors are a quorum and a motion passes by a majority of those present. A director with a conflict under 3.8 does not vote. Policy may not conflict with these bylaws or the Articles.
 
-5.4 **Who votes.** Full members in good standing who have been members for at least 30 days when voting opens. One vote each; no proxies.
+## 5. Delegation
 
-5.5 **Ballot.** Secret ballot by email link, through the member records system, which records who voted and the totals but never how anyone voted. Voting stays open for 8 days. The Secretary runs the vote, or the President if the Secretary can't. The result is posted in the governance repository.
+5.1 The board may create zones and other roles, and delegate authority to the volunteers it appoints to them. Each delegation is set out in policy, and the board may withdraw it.
 
-5.6 **Quorum and passing.** A vote counts if at least 10% of voters, and no fewer than 5, cast a ballot; abstentions count toward quorum but are not votes cast. A question passes by a majority of votes cast. Bylaw changes, dissolution, a merger, or the sale of substantially all assets need two-thirds. Without quorum, the directors stay in office and the vote is held again within 60 days.
+5.2 Appointed volunteers are not officers or directors. They may not sign contracts or commit CGW to ongoing costs unless the board authorizes them in writing.
 
-5.7 **Elections.** Nominations close when voting opens. A candidate runs for one seat. The most votes wins, and a lone candidate needs a majority. The President breaks ties; if the President is tied, the Secretary does; if both are, it is decided by lot. No write-ins. A seat left empty is filled under 3.5.
+5.3 A committee that exercises any of the board's authority has at least two directors on it.
 
-5.8 **Corrections.** The Secretary may fix typos and formatting in these bylaws without a vote.
+## 6. Indemnification
 
-5.9 **First bylaws.** The board adopts these bylaws subject to ratification by the members, and they take effect when ratified. The board election held with the ratification vote counts only if they are ratified. If they are not, the directors stay in office and bring revised bylaws to the members within 120 days.
+6.1 CGW indemnifies its directors, officers, and appointed volunteers for actions taken in good faith on CGW's behalf, to the fullest extent Missouri law allows.
 
-### Board votes
+6.2 CGW may pay a person's reasonable defense costs as they arise, if the person agrees in writing to repay them should it turn out they are not entitled to indemnification.
 
-5.10 **Board votes.** The board decides everything else, including all policy, by a vote of at least three directors. Directors may vote on a policy change in writing through the governance repository, and a policy takes effect when it is entered there. At a board meeting, three directors are a quorum and a motion passes by a majority of those present. A director with a conflict under 3.8 does not vote. Policy may not conflict with these bylaws or the Articles.
+6.3 The board may buy insurance for CGW's directors, officers, and appointed volunteers.
 
-5.11 **Tools.** Policy names the governance repository, the member chat channel, and the member records system.
+## 7. Dissolution
 
-## 6. Delegation
-
-6.1 The board may create zones and other roles, and delegate authority to the volunteers it appoints to them. Each delegation is set out in policy, and the board may withdraw it.
-
-6.2 Appointed volunteers are not officers or directors. They may not sign contracts or commit CGW to ongoing costs unless the board authorizes them in writing.
-
-6.3 A committee that exercises any of the board's authority has at least two directors on it.
-
-## 7. Indemnification
-
-7.1 CGW indemnifies its directors, officers, and appointed volunteers for actions taken in good faith on CGW's behalf, to the fullest extent Missouri law allows.
-
-7.2 CGW may pay a person's reasonable defense costs as they arise, if the person agrees in writing to repay them should it turn out they are not entitled to indemnification.
-
-7.3 The board may buy insurance for CGW's directors, officers, and appointed volunteers.
-
-## 8. Dissolution
-
-8.1 If CGW dissolves, the board first pays, or makes provision for, all of CGW's liabilities. It then distributes the remaining assets exclusively for CGW's purposes, to one or more organizations qualifying under Section 501(c)(3). Any assets not distributed this way are disposed of by the Circuit Court of the county where CGW's principal office is located, for those same purposes. This follows the Articles.
+7.1 If CGW dissolves, the board first pays, or makes provision for, all of CGW's liabilities. It then distributes the remaining assets exclusively for CGW's purposes, to one or more organizations qualifying under Section 501(c)(3). Any assets not distributed this way are disposed of by the Circuit Court of the county where CGW's principal office is located, for those same purposes. This follows the Articles.
