@@ -1,6 +1,6 @@
 # Storage and donations
 
-*Policy draft. Not adopted.*
+*Proposed policy, for member endorsement on 8 April 2027. Not yet adopted.*
 
 ## Storage
 

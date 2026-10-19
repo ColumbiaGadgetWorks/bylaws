@@ -1,6 +1,6 @@
 # Membership and access
 
-*Policy draft. Not adopted.*
+*Proposed policy, for member endorsement on 8 April 2027. Not yet adopted.*
 
 ## Joining
 
@@ -14,11 +14,11 @@ Within your first month, the Membership Director checks in with you.
 
 | Age | Rules |
 |---|---|
-| 18 and over | Full membership |
+| 18 and over | Any membership type |
 | 16 and 17 | May be a member if a parent or guardian also signs the waiver and the member agreement |
 | Under 16 | May attend Open Hack Night and classes only with a parent or guardian present the whole time. The parent or guardian signs the waiver too |
 
-Board seats are open only to members 18 or older.
+Board seats are open only to full members 18 or older.
 
 ## Dues
 

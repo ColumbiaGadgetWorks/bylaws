@@ -1,6 +1,6 @@
 # Bylaws of Columbia Gadget Works
 
-*Draft v5, 12 October 2026. Not adopted.*
+*Ballot text v6, 19 October 2026. Proposed for ratification by the members at the annual meeting on Thursday 8 April 2027 (see `ballot.md`). Not yet in effect.*
 
 These bylaws hold only what Missouri law requires, what protects members, and what should be hard to change. Everything else is policy (`policies/`), which the board can change at any time.
 
@@ -84,7 +84,7 @@ Policy names the tools CGW uses for votes and notices: the governance repository
 
 ### Member votes
 
-5.1 **What members decide.** Members:
+5.1 **What members decide.** Full members, voting under 5.5:
 - elect and remove directors;
 - amend these bylaws;
 - approve dissolution, merger, or the sale of substantially all of CGW's assets;
@@ -111,7 +111,7 @@ Only members can amend these bylaws.
 5.8 **Passing.** A question passes by a majority of votes cast, except that amending these bylaws, dissolution, merger, or the sale of substantially all assets needs two-thirds of votes cast.
 
 5.9 **Elections.** Nominations open with the notice and close as policy sets.
-- A member may be a candidate for only one seat.
+- A candidate runs for only one seat.
 - The candidate with the most votes for a seat wins, and a tie goes to a runoff ballot.
 - A seat with one candidate is on the ballot as a yes-or-no question, and the candidate is elected by a majority of votes cast.
 - A seat with no candidate, or whose only candidate is not elected, is a vacancy filled under 3.5.

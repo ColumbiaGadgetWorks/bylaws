@@ -1,6 +1,6 @@
 # Code of conduct and safety
 
-*Policy draft. Not adopted. Applies to everyone in the Space, at CGW events, and on CGW's online channels: members, visitors, instructors, and directors.*
+*Proposed policy, for member endorsement on 8 April 2027. Not yet adopted. Applies to everyone in the Space, at CGW events, and on CGW's online channels: members, visitors, instructors, and directors.*
 
 CGW exists so people of every background and skill level can learn and build together. That only works if everyone feels welcome and safe.
 

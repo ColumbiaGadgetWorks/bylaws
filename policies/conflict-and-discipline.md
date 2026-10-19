@@ -1,6 +1,6 @@
 # Conflict and discipline
 
-*Policy draft. Not adopted.*
+*Proposed policy, for member endorsement on 8 April 2027. Not yet adopted.*
 
 ## Disagreements between members
 

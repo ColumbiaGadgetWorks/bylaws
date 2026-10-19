@@ -1,6 +1,6 @@
 # Conflict of interest
 
-*Policy draft. Not adopted. Based on the IRS sample policy for 501(c)(3) organizations, shortened.*
+*Proposed policy, for member endorsement on 8 April 2027. Not yet adopted. Based on the IRS sample policy for 501(c)(3) organizations, shortened.*
 
 Bylaws 3.8 sets the rule: disclose a personal financial interest, don't vote on it, and never approve a payment to yourself. This page says how.
 

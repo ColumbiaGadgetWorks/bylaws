@@ -1,6 +1,6 @@
 # Zones and roles
 
-*Policy draft. Not adopted. The board decides* what *the shop is; a Zone Boss decides* how *their zone works.*
+*Proposed policy, for member endorsement on 8 April 2027. Not yet adopted. The board decides* what *the shop is; a Zone Boss decides* how *their zone works.*
 
 ## Zones
 

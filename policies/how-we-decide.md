@@ -1,6 +1,6 @@
 # How we decide
 
-*Policy draft. Not adopted.*
+*Proposed policy, for member endorsement on 8 April 2027. Not yet adopted.*
 
 CGW makes decisions in two separate ways:
 
@@ -71,7 +71,7 @@ Bylaw changes and elections are not decided on GitHub. GitHub only holds the tex
 
 ## The annual meeting
 
-- Held on the **second Thursday of April**, during Open Hack Night (6 pm). The ballot closes at 7 pm.
+- Held on the **second Thursday of April**, during Open Hack Night (6 pm), and listed on CGW's public calendar. The ballot closes at 7 pm. The first is on Thursday 8 April 2027 (`ballot.md`).
 - Agenda:
   1. Treasurer's report;
   2. open floor, while the tellers certify the count;
