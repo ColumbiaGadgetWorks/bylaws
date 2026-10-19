@@ -6,7 +6,7 @@
 
 | Who | May spend without asking | Needs approval |
 |---|---|---|
-| **Zone Boss** | From the zone balance, up to $250 a month | The board approves anything over $250 a month, and anything electrical, structural, or recurring |
+| **Zone Boss** | From the zone balance | The board approves any expense over $250 |
 | **Lead** | Within the budget the board gives them | The board approves anything beyond that budget |
 | **Director** | Within the adopted budget | Two directors approve (see below) |
 
@@ -26,7 +26,7 @@ Zones get no share of dues.
 
 ## Classes
 
-- **Prices.** Three tiers: $9.96, $19.96, and $29.96 for members. Non-members pay $10 more.
+- **Prices.** Three tiers: $5, $10, and $20. Members get 50% off.
 - **Teacher Fund.** The instructor may take up to 50% of a class's revenue, capped at $500 per person per calendar year and paid quarterly. Whatever the instructor doesn't take goes to the zone. A director who teaches doesn't vote on Teacher Fund rates (`conflict-of-interest.md`).
 - **Grant-funded classes** are free and pay no instructor share.
 

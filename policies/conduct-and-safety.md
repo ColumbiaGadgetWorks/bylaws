@@ -29,4 +29,4 @@ CGW does not discriminate on the basis of race, color, religion, national origin
 
 ## If something happens
 
-Talk to any director or Zone Boss, or email mail@columbiagadgetworks.org. Reports are handled confidentially. The process is in `conflict-and-discipline.md`.
+Talk to any director or Zone Boss, or email mediation@columbiagadgetworks.org. Reports are handled confidentially. The process is in `conflict-and-discipline.md`.

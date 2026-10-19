@@ -30,4 +30,4 @@ A complaint about a director goes to any two directors who aren't involved. They
 |---|---|
 | A member disagrees with a zone rule | The Zone Boss decides and owes the member one reason |
 | A member thinks a Zone Boss acted outside their authority | The board, on the question of authority only |
-| Two Zone Bosses disagree | They talk first. After two weeks, either may take it to the board |
+| Two Zone Bosses disagree | They talk first. After that, either may take it to the board |
