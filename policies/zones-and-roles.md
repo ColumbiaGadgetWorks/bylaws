@@ -4,7 +4,16 @@
 
 ## Zones
 
-There are six zones: Woodworking, Machining, Metalworking, Electronics, Digital Fabrication, and Crafts.
+There are six zones:
+
+| Zone | What's in it |
+|---|---|
+| **Woodworking** | Table saw, miter saw, band saw, planer, sanders, router table, hand tools, dust collection |
+| **Machining** | Vertical knee mill and metal lathe |
+| **Metalworking** | MIG, TIG, and stick welding, chop saw, grinders, and metal casting |
+| **Electronics** | Soldering and rework stations, oscilloscope, power supplies, components |
+| **Digital Fabrication** | 3D printers, laser cutter, CNC router |
+| **Crafts** | Sewing, textiles, and other hand crafts |
 
 The classroom, kitchen, entrance, donation shelf, and Open Hack Night are not part of any zone. The board, or a Lead the board names, runs them, and the general fund pays for them.
 
