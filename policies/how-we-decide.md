@@ -74,7 +74,7 @@ Dolibarr runs the vote. The Secretary works it from buttons in emails, without l
 
 ## The annual meeting
 
-- Held on the **second Thursday of April**, 6 to 8 pm, in place of Open Hack Night: there is no Open Hack Night that evening. The first is on Thursday 8 April 2027 (`ballot.md`).
+- Held on the **second Thursday of April**, 6 to 8 pm, in place of Open Hack Night: there is no Open Hack Night that evening. The first is on Thursday 8 April 2027. What is on the ballot: `ballot.md`.
 - Agenda:
   1. Treasurer's report;
   2. the proposed bylaw changes: discussion and final changes;
@@ -90,12 +90,42 @@ Dolibarr emails the Secretary and the President a button for each voting step wh
 - **CGW's calendar** has the annual meeting as a yearly event, second Thursday of April, 6 to 8 pm, with `Promote: yes` in its description. That Thursday's Open Hack Night is deleted from the calendar each year.
 - **Discord.** The website copies calendar events to the Discord server's Events list about five weeks ahead.
 - **Social posts and email.** The Content Studio announces the meeting two weeks ahead and reminds two days ahead, on Discord `#shop-news` and the other channels. It also includes the meeting in the April "Coming up at CGW" email.
-- **Board reminders.** Yearly tasks in Dolibarr's deadline reminders nag the people responsible until each step is done:
+- **Board reminders.** Yearly tasks in Dolibarr's deadline reminders nag the people responsible for the steps below that have no button.
 
-| Due | Task | Assigned to |
+### Steps before the vote
+
+"The meeting" is the annual meeting, the second Thursday of April.
+
+| By | Step | Who |
 |---|---|---|
-| 15 January | Check the annual meeting is on the calendar, and delete that night's Open Hack Night | Secretary |
-| 25 February | Board approves the proposed bylaw text | President |
+| 15 January | On CGW's Google Calendar, check the annual meeting is there as a yearly event (second Thursday of April, 6 to 8 pm, with `Promote: yes` in the description), and delete that night's Open Hack Night. The website, Discord, the Studio's posts, and the April email then follow automatically. Check the yearly tasks in Dolibarr's deadline reminders | Secretary |
+| January board meeting | Run a test vote in Dolibarr with the directors | Board |
+| February board meeting | Approve the proposed bylaw changes for the ballot | Board |
+| 30 days before the meeting | Last day to join and still vote (bylaws 5.5) | |
+| 14 days before the meeting | Press **Send notice** in the Dolibarr email: every voter gets the proposed text and a **Run for a board seat** button. Post the notice on Discord. Nominations open | Secretary |
+| 7 days before the meeting | Discussion week. Press **Send reminder**: the candidates so far and a link to the discussion | Secretary |
+| The meeting, 6 pm | Treasurer's report; discussion and final changes to the bylaws; nominations from the floor, and candidates speak. The Secretary updates the pull request and presses **Open voting** before the meeting ends. Nominations close | President, Secretary |
+| 6 days after the meeting | Press **Remind non-voters** | Secretary |
+| 8 days after the meeting, about 7 pm | Voting closes. Dolibarr counts the ballots, emails the result to the Secretary and the President, and posts it on the ballot pull request | Automatic |
+
+### Steps after the vote
+
+| By | Step | Who |
+|---|---|---|
+| When voting closes | If a bylaw change passed, merge its pull request; if it failed, close it | Secretary |
+| 30 April | The new board appoints Zone Bosses and Leads | Board |
+| May | Yearly conflict-of-interest statements (`conflict-of-interest.md`) | Secretary |
+| 31 May | Budget for the fiscal year starting 1 June | Treasurer, board |
+
+### First annual meeting only (2027)
+
+| By | Step | Who |
+|---|---|---|
+| Thu 28 Jan 2027 | Turn on branch protection for `main`; report what Coterie said about coverage for 16–17-year-old members and D&O insurance; merge the website's policies pages (ColumbiaGadgetWorks/website pull request 26) and point the site's waiver and member agreement pages at them | Board |
+| Mon 1 Feb 2027 | Ask every current member to accept the new member agreement in Dolibarr (it covers notices and ballots by email) | Membership Director |
+| Thu 25 Feb 2027, 8 pm | Special board meeting: approve the proposed bylaw text, adopt the bylaws subject to ratification (bylaws 5.11), and adopt the policies, waiver, and member agreement to take effect with the bylaws | Board |
+| When voting closes | If the bylaws are ratified, set `status: adopted` in `site.yaml` and remove the "Proposed" lines from each page | Secretary |
+| The Monday after | Close the Legacy rate: Legacy members move to Standard or leave. Load the new agreement and waiver into Dolibarr | Membership Director, Treasurer |
 
 ## Records
 
