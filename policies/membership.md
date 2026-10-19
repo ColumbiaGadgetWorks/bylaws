@@ -1,6 +1,6 @@
 # Membership and access
 
-*Policy draft. Not adopted.*
+*Proposed policy. The board adopts it to take effect with the bylaws. Not yet adopted.*
 
 ## Joining
 
@@ -14,11 +14,11 @@ Within your first month, the Membership Director checks in with you.
 
 | Age | Rules |
 |---|---|
-| 18 and over | Full membership |
+| 18 and over | Any membership type |
 | 16 and 17 | May be a member if a parent or guardian also signs the waiver and the member agreement |
 | Under 16 | May attend Open Hack Night and classes only with a parent or guardian present the whole time. The parent or guardian signs the waiver too |
 
-Board seats are open only to members 18 or older.
+Board seats are open only to full members 18 or older.
 
 ## Dues
 
@@ -29,7 +29,7 @@ Board seats are open only to members 18 or older.
 | Hardship | $0 | Apply privately to the board. Lasts 12 months and can be renewed. The board decides each application on its own merits |
 | Legacy | $40 a month | Only for members already paying $40. Ends when the new bylaws are adopted |
 
-Standard and Supporter members are **full members** and vote. **Hardship and Legacy members do not vote** and can't hold a board seat (bylaws 2.1); otherwise every type has the same rights and use of the Space. Who holds a hardship waiver is kept confidential: only the board, the Secretary, and the tellers see it, through the voter roll.
+Standard and Supporter members are **full members** and vote. **Hardship and Legacy members do not vote** and can't hold a board seat (bylaws 2.1); otherwise every type has the same rights and use of the Space. Who holds a hardship waiver is kept confidential: only the board and the Secretary see it, through the voter roll.
 
 ## Missed dues
 
@@ -42,11 +42,12 @@ Standard and Supporter members are **full members** and vote. **Hardship and Leg
 
 - **Your badge is yours.** Don't lend it. If you let someone in, stay with them.
 - **Guests.** Any member may bring a guest. The guest signs the waiver, and the member stays with them the whole time.
-- **Open Hack Night**, Thursdays 6 to 8 pm, is free and open to everyone. Every visitor signs the waiver.
+- **Open Hack Night**, Thursdays 6 to 8 pm, is free and open to everyone, except on the night of the annual meeting. Every visitor signs the waiver.
 - **Checkout-gated tools** need a recorded checkout before anyone uses them, member or visitor.
 
 ## Your records
 
 - CGW keeps your name, contact details, signed documents, ID photo, and payment history in Dolibarr, and never sells them.
 - Only directors can see ID photos. An ID photo is deleted 30 days after membership ends.
-- Official notices, including notices of member votes and ballots, go by email to members who agreed to that in the member agreement, and by mail to anyone who didn't.
+- Official notices, including notices of member votes and ballots, go by email to the address on your member record. Every member agrees to this in the member agreement.
+- Full members can vote once they have been members for 30 days (bylaws 5.5).

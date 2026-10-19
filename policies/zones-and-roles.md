@@ -1,6 +1,6 @@
 # Zones and roles
 
-*Policy draft. Not adopted. The board decides* what *the shop is; a Zone Boss decides* how *their zone works.*
+*Proposed policy. The board adopts it to take effect with the bylaws. Not yet adopted. The board decides* what *the shop is; a Zone Boss decides* how *their zone works.*
 
 ## Zones
 

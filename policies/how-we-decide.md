@@ -1,6 +1,6 @@
 # How we decide
 
-*Policy draft. Not adopted.*
+*Proposed policy. The board adopts it to take effect with the bylaws. Not yet adopted.*
 
 CGW makes decisions in two separate ways:
 
@@ -8,8 +8,8 @@ CGW makes decisions in two separate ways:
 |---|---|---|
 | Decides | Who sits on the board; what the bylaws say; dissolution or merger | Everything else: all policy, the budget, appointments, discipline |
 | Who votes | Every full member in good standing (not hardship or legacy members) | The five directors |
-| When | The annual meeting (second Thursday of April), or a special vote | Any time |
-| How | Secret ballot online. The Secretary and tellers record who voted and the totals | Reviews on a GitHub pull request, or a vote at a board meeting |
+| When | Voting opens at the annual meeting (second Thursday of April, in place of Open Hack Night) and runs 8 days, or a special vote | Any time |
+| How | Secret ballot by email link, through Dolibarr. It records who voted and the totals, never how anyone voted | Reviews on a GitHub pull request, or a vote at a board meeting |
 | Passes with | Quorum, then a majority (two-thirds for bylaw changes) | 3 of the 5 directors |
 
 Zone rules are a third, smaller layer. A Zone Boss sets them on the zone's wiki page without a vote, and they must fit within policy.
@@ -59,24 +59,73 @@ Other board decisions, such as spending, appointments, and discipline, are made 
 
 Bylaw changes and elections are not decided on GitHub. GitHub only holds the text being voted on.
 
+Members vote on two things: bylaw changes and the board. The board sets policy, the waiver, and the member agreement itself, and appoints Zone Bosses.
+
+Dolibarr runs the vote. The Secretary works it from buttons in emails, without logging in; the President gets the same emails and can press them if the Secretary can't.
+
 1. **Getting on the ballot.** The board puts a bylaw PR to a member vote, or members petition for one (bylaws 5.3).
-2. **Freezing the text.** The Secretary tags the PR's final commit `ballot/<yyyy-mm-dd>`. Members vote on that exact text.
-3. **Notice.** Sent 10 to 60 days before voting opens, with a link to the tagged text and a PDF copy (bylaws 5.4).
-4. **Nominations** open with the notice and close 7 days before voting opens. Any eligible member may nominate themselves, or another member who agrees. Each candidate runs for one seat only.
-5. **Tellers.** With the notice, the board appoints one or two members who are not candidates as tellers.
-6. **Voter roll.** On the day voting opens, the Secretary or a teller exports the list of full members in good standing from Dolibarr. The roll is kept confidential, because it shows who holds a hardship waiver.
-7. **Ballot.** Online only. An online ballot service (for example Helios Voting) emails each member on the roll a personal link to a secret ballot. The notice names the service. The ballot is open at least 7 days and closes at the time stated in the notice. At the annual meeting, a laptop is set up for members who haven't voted yet. A member without email asks the Secretary or a teller for their link another way.
-8. **Counting.** The service counts the ballots. The Secretary and the tellers certify the result and post it on the PR: eligible voters, ballots cast, whether quorum was met, the yes/no/abstain counts, and the outcome.
-9. **Adoption.** If the vote passes, the Secretary merges the PR. If it fails, the PR is closed and kept on record.
+2. **Notice.** At least 14 days before the annual meeting, the Secretary presses **Send notice**. Every full member who will have been a member for 30 days by the meeting gets it by email (bylaws 5.4, 5.5), with the proposed text and a **Run for a board seat** button. The Secretary posts it on Discord.
+3. **Running for a seat.** A member presses the button in the notice, picks one seat, and may add a short statement for the ballot. Dolibarr checks they can run: a full member in good standing, 18 or older, and not running for another seat. Members can also be nominated at the meeting if they are there and agree. Nominations close when voting opens.
+4. **Discussion.** The week before the meeting, members discuss the proposals on the PR and on Discord. The Secretary presses **Send reminder** to email the candidates so far and a link to the discussion.
+5. **At the meeting** members discuss and change the proposed text. The Secretary updates the PR, then presses **Open voting**: Dolibarr tags the final commit `ballot/<yyyy-mm-dd>`, takes the voter roll (full members in good standing, members for at least 30 days), and emails each one a personal ballot link. Nobody who joins later gets a ballot. The roll is confidential, because it shows who holds a hardship waiver.
+6. **Ballot.** Yes, No, or Abstain on each bylaw question; for each seat, pick a candidate or abstain (a seat with one candidate is Yes, No, or Abstain). Voting stays open for 8 days. A member who lost their link enters their email and the last 2 digits of their member ID at columbiagadgetworks.org/voting, and the link is sent again to the address on file. Two days before voting closes, the Secretary can press **Remind non-voters**.
+7. **Counting.** When voting closes, Dolibarr counts the ballots, checks quorum and the share needed, emails the result to the Secretary and the President, and posts it on the PR: eligible voters, ballots cast, whether quorum was met, the totals, and the outcome. A tie for a seat goes to the President as an email with a button for each tied candidate (bylaws 5.9).
+8. **Adoption.** If the vote passes, the Secretary merges the PR. If it fails, the PR is closed and kept on record.
 
 ## The annual meeting
 
-- Held on the **second Thursday of April**, during Open Hack Night (6 pm). The ballot closes at 7 pm.
+- Held on the **second Thursday of April**, 6 to 8 pm, in place of Open Hack Night: there is no Open Hack Night that evening. The first is on Thursday 8 April 2027. What is on the ballot: `ballot.md`.
 - Agenda:
   1. Treasurer's report;
-  2. open floor, while the tellers certify the count;
-  3. results: bylaw changes first, then elections.
+  2. the proposed bylaw changes: discussion and final changes;
+  3. candidates: nominations from the floor, and each candidate may speak;
+  4. the Secretary opens voting.
+- Results go out when voting closes, 8 days later.
 - The new board appoints Zone Bosses and Leads by 30 April. Until then, everyone already in a role stays in it.
+
+### Calendar and reminders
+
+Dolibarr emails the Secretary and the President a button for each voting step when it is due: send notice, send reminder, open voting, remind non-voters. The rest runs from the calendar:
+
+- **CGW's calendar** has the annual meeting as a yearly event, second Thursday of April, 6 to 8 pm, with `Promote: yes` in its description. That Thursday's Open Hack Night is deleted from the calendar each year.
+- **Discord.** The website copies calendar events to the Discord server's Events list about five weeks ahead.
+- **Social posts and email.** The Content Studio announces the meeting two weeks ahead and reminds two days ahead, on Discord `#shop-news` and the other channels. It also includes the meeting in the April "Coming up at CGW" email.
+- **Board reminders.** Yearly tasks in Dolibarr's deadline reminders nag the people responsible for the steps below that have no button.
+
+### Steps before the vote
+
+"The meeting" is the annual meeting, the second Thursday of April.
+
+| By | Step | Who |
+|---|---|---|
+| 15 January | On CGW's Google Calendar, check the annual meeting is there as a yearly event (second Thursday of April, 6 to 8 pm, with `Promote: yes` in the description), and delete that night's Open Hack Night. The website, Discord, the Studio's posts, and the April email then follow automatically. Check the yearly tasks in Dolibarr's deadline reminders | Secretary |
+| January board meeting | Run a test vote in Dolibarr with the directors | Board |
+| February board meeting | Approve the proposed bylaw changes for the ballot | Board |
+| 30 days before the meeting | Last day to join and still vote (bylaws 5.5) | |
+| 14 days before the meeting | Press **Send notice** in the Dolibarr email: every voter gets the proposed text and a **Run for a board seat** button. Post the notice on Discord. Nominations open | Secretary |
+| 7 days before the meeting | Discussion week. Press **Send reminder**: the candidates so far and a link to the discussion | Secretary |
+| The meeting, 6 pm | Treasurer's report; discussion and final changes to the bylaws; nominations from the floor, and candidates speak. The Secretary updates the pull request and presses **Open voting** before the meeting ends. Nominations close | President, Secretary |
+| 6 days after the meeting | Press **Remind non-voters** | Secretary |
+| 8 days after the meeting, about 7 pm | Voting closes. Dolibarr counts the ballots, emails the result to the Secretary and the President, and posts it on the ballot pull request | Automatic |
+
+### Steps after the vote
+
+| By | Step | Who |
+|---|---|---|
+| When voting closes | If a bylaw change passed, merge its pull request; if it failed, close it | Secretary |
+| 30 April | The new board appoints Zone Bosses and Leads | Board |
+| May | Yearly conflict-of-interest statements (`conflict-of-interest.md`) | Secretary |
+| 31 May | Budget for the fiscal year starting 1 June | Treasurer, board |
+
+### First annual meeting only (2027)
+
+| By | Step | Who |
+|---|---|---|
+| Thu 28 Jan 2027 | Turn on branch protection for `main`; report what Coterie said about coverage for 16–17-year-old members and D&O insurance; merge the website's policies pages (ColumbiaGadgetWorks/website pull request 26) and point the site's waiver and member agreement pages at them | Board |
+| Mon 1 Feb 2027 | Ask every current member to accept the new member agreement in Dolibarr (it covers notices and ballots by email) | Membership Director |
+| Thu 25 Feb 2027, 8 pm | Special board meeting: approve the proposed bylaw text, adopt the bylaws subject to ratification (bylaws 5.11), and adopt the policies, waiver, and member agreement to take effect with the bylaws | Board |
+| When voting closes | If the bylaws are ratified, set `status: adopted` in `site.yaml` and remove the "Proposed" lines from each page | Secretary |
+| The Monday after | Close the Legacy rate: Legacy members move to Standard or leave. Load the new agreement and waiver into Dolibarr | Membership Director, Treasurer |
 
 ## Records
 
