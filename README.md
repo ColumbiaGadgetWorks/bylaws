@@ -21,7 +21,7 @@ The official text of CGW's bylaws and policies. The website's [policies pages](h
 
 ## Proposing a change
 
-Open a pull request that edits the file, or open an issue describing what you want. **Policy** changes are board votes: after 7 days for member comment, the change passes when 3 of the 5 directors approve the pull request. **Bylaw** changes and elections are member votes: they are decided by secret ballot, not on GitHub, and the pull request only holds the text being voted on. Details: [`policies/how-we-decide.md`](policies/how-we-decide.md).
+Open a pull request that edits the file, or open an issue describing what you want. **Policy** changes are board votes: after 7 days for member comment, the change passes when 3 of the 4 directors approve the pull request. **Bylaw** changes and elections are member votes: they are decided by secret ballot, not on GitHub, and the pull request only holds the text being voted on. Details: [`policies/how-we-decide.md`](policies/how-we-decide.md).
 
 ## The signup documents
 

@@ -8,7 +8,7 @@
 2. **Pay dues**, or be approved for a hardship waiver.
 3. **Complete the safety orientation** (about 20 minutes) with a director or Zone Boss. Then you get your badge.
 
-Within your first month, the Membership Director checks in with you.
+Within your first month, a director checks in with you.
 
 ## Age
 
@@ -24,7 +24,7 @@ Board seats are open only to full members 18 or older.
 
 | Type | Cost | Notes |
 |---|---|---|
-| Standard | $50 a month | May be paid quarterly |
+| Standard | $50 a month | Set by the bylaws (2.1); changing it takes a member vote. May be paid quarterly |
 | Supporter | $100 a month | Monthly only. Same as Standard in every way. The extra $50 is a tax-deductible donation, and each receipt says so |
 | Hardship | $0 | Apply privately to the board. Lasts 12 months and can be renewed. The board decides each application on its own merits |
 | Legacy | $40 a month | Only for members already paying $40. Ends when the new bylaws are adopted |
@@ -50,4 +50,4 @@ Standard and Supporter members are **full members** and vote. **Hardship and Leg
 - CGW keeps your name, contact details, signed documents, ID photo, and payment history in Dolibarr, and never sells them.
 - Only directors can see ID photos. An ID photo is deleted 30 days after membership ends.
 - Official notices, including notices of member votes and ballots, go by email to the address on your member record. Every member agrees to this in the member agreement.
-- Full members can vote once they have been members for 30 days (bylaws 5.5).
+- Full members can vote once they have been members for 30 days (bylaws 5.4).
