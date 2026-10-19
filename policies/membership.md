@@ -42,7 +42,7 @@ Standard and Supporter members are **full members** and vote. **Hardship and Leg
 
 - **Your badge is yours.** Don't lend it. If you let someone in, stay with them.
 - **Guests.** Any member may bring a guest. The guest signs the waiver, and the member stays with them the whole time.
-- **Open Hack Night**, Thursdays 6 to 8 pm, is free and open to everyone. Every visitor signs the waiver.
+- **Open Hack Night**, Thursdays 6 to 8 pm, is free and open to everyone, except on the night of the annual meeting. Every visitor signs the waiver.
 - **Checkout-gated tools** need a recorded checkout before anyone uses them, member or visitor.
 
 ## Your records

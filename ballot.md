@@ -2,7 +2,7 @@
 
 *Ballot plan. The board approves the final version at its meeting on Thursday 25 February 2027.*
 
-**Annual meeting:** Thursday 8 April 2027, 6 pm, during Open Hack Night at 1404 Grand Ave, Unit B, Columbia.
+**Annual meeting:** Thursday 8 April 2027, 6 to 8 pm, at 1404 Grand Ave, Unit B, Columbia. There is no Open Hack Night that evening.
 
 **Voting:** online, from Wednesday 31 March 2027 at 9 am until Thursday 8 April 2027 at 7 pm. Each voter gets a personal ballot link by email. A laptop is set up at the meeting for anyone who hasn't voted yet.
 
@@ -25,6 +25,8 @@ Abstentions count toward quorum but not as votes cast. If question 1 fails, the 
 | By | Step | Who |
 |---|---|---|
 | Thu 28 Jan 2027 | At the quarterly board meeting: confirm the ballot service (Helios Voting unless the board picks another), turn on branch protection for `main`, and report what Coterie said about coverage for 16–17-year-old members and D&O insurance | Board |
+| Fri 15 Jan 2027 | On CGW's Google Calendar: add the annual meeting as a yearly event (second Thursday of April, 6 to 8 pm, with `Promote: yes` in the description), and delete the Open Hack Night on 8 April 2027. The website, Discord, the Studio's posts, and the April email then follow automatically | Secretary |
+| Fri 15 Jan 2027 | In Dolibarr's deadline reminders, set up the yearly tasks listed in `policies/how-we-decide.md` | Secretary |
 | Thu 28 Jan 2027 | Merge the website's policies pages (ColumbiaGadgetWorks/website pull request 26), so columbiagadgetworks.org/policies/ shows this text, and point the site's waiver and member agreement pages at it | Board |
 | Thu 25 Feb 2027 | Last day for member comments on pull requests and issues in this repository | Members |
 | Thu 25 Feb 2027, 8 pm | **Special board meeting.** The board approves the final text, adopts the bylaws subject to ratification (bylaws 5.11), adopts the policies, waiver, and member agreement to take effect with the bylaws, appoints one or two tellers who aren't candidates, and approves the notice | Board |

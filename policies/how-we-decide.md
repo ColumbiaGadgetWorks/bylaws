@@ -8,7 +8,7 @@ CGW makes decisions in two separate ways:
 |---|---|---|
 | Decides | Who sits on the board; what the bylaws say; dissolution or merger | Everything else: all policy, the budget, appointments, discipline |
 | Who votes | Every full member in good standing (not hardship or legacy members) | The five directors |
-| When | The annual meeting (second Thursday of April), or a special vote | Any time |
+| When | The annual meeting (second Thursday of April, in place of Open Hack Night), or a special vote | Any time |
 | How | Secret ballot online. The Secretary and tellers record who voted and the totals | Reviews on a GitHub pull request, or a vote at a board meeting |
 | Passes with | Quorum, then a majority (two-thirds for bylaw changes) | 3 of the 5 directors |
 
@@ -71,12 +71,29 @@ Bylaw changes and elections are not decided on GitHub. GitHub only holds the tex
 
 ## The annual meeting
 
-- Held on the **second Thursday of April**, during Open Hack Night (6 pm), and listed on CGW's public calendar. The ballot closes at 7 pm. The first is on Thursday 8 April 2027 (`ballot.md`).
+- Held on the **second Thursday of April**, 6 to 8 pm, in place of Open Hack Night: there is no Open Hack Night that evening. The ballot closes at 7 pm. The first is on Thursday 8 April 2027 (`ballot.md`).
 - Agenda:
   1. Treasurer's report;
   2. open floor, while the tellers certify the count;
   3. results: bylaw changes first, then elections.
 - The new board appoints Zone Bosses and Leads by 30 April. Until then, everyone already in a role stays in it.
+
+### Calendar and reminders
+
+The formal notice (bylaws 5.4) is the Secretary's job and is always sent by hand, because its contents change every year. Everything else runs from the calendar:
+
+- **CGW's calendar** has the annual meeting as a yearly event, second Thursday of April, 6 to 8 pm, with `Promote: yes` in its description. That Thursday's Open Hack Night is deleted from the calendar each year.
+- **Discord.** The website copies calendar events to the Discord server's Events list about five weeks ahead.
+- **Social posts and email.** The Content Studio announces the meeting two weeks ahead and reminds two days ahead, on Discord `#shop-news` and the other channels. It also includes the meeting in the April "Coming up at CGW" email.
+- **Board reminders.** Yearly tasks in Dolibarr's deadline reminders nag the people responsible until each step is done:
+
+| Due | Task | Assigned to |
+|---|---|---|
+| 15 January | Check the annual meeting is on the calendar, and delete that night's Open Hack Night | Secretary |
+| 25 February | Board approves the ballot text and appoints tellers | President |
+| 1 March | Send the formal notice to every member and open nominations | Secretary |
+| 24 March | Close nominations and post the candidates | Secretary |
+| Voting day | Export the voter roll and open the ballot | Secretary |
 
 ## Records
 
