@@ -74,7 +74,7 @@ Dolibarr runs the vote. The Secretary works it from buttons in emails, without l
 
 ## The annual meeting
 
-- Held on the **second Thursday of April**, 6 to 8 pm, in place of Open Hack Night: there is no Open Hack Night that evening. The first is on Thursday 8 April 2027. What is on the ballot: `ballot.md`.
+- Held on the **second Thursday of April**, 6 to 8 pm, at 1404 Grand Ave, Unit B, Columbia, in place of Open Hack Night: there is no Open Hack Night that evening. The first is on Thursday 8 April 2027.
 - Agenda:
   1. Treasurer's report;
   2. the proposed bylaw changes: discussion and final changes;
@@ -82,6 +82,18 @@ Dolibarr runs the vote. The Secretary works it from buttons in emails, without l
   4. the Secretary opens voting.
 - Results go out when voting closes, 8 days later.
 - The new board appoints Zone Bosses and Leads by 30 April. Until then, everyone already in a role stays in it.
+
+### What is on the ballot
+
+| Question | Passes with |
+|---|---|
+| Each proposed bylaw change, as tagged `ballot/<yyyy-mm-dd>` when voting opens: Yes, No, or Abstain. At the first annual meeting, a single question: do you ratify the bylaws? | Two-thirds of votes cast (bylaws 5.8) |
+| The President, Vice President, Secretary, Treasurer, and Membership Director, one race per seat: pick a candidate or abstain. A seat with one candidate is Yes, No, or Abstain | Most votes, ties broken by the President (bylaws 5.9); a lone candidate needs a majority of votes cast |
+
+- **Who votes:** full members (Standard or Supporter dues) in good standing who joined at least 30 days before the annual meeting (bylaws 5.5). Hardship and Legacy members don't vote (bylaws 2.1). Only voters get the notice and the ballot.
+- **When:** voting opens during the meeting, after the discussion, and stays open for 8 days, until about 7 pm on the Friday of the following week. The ballot email gives the exact time.
+- **Quorum:** ballots from at least 10% of the full members on the voter roll, and no fewer than 5. Abstentions count toward quorum but not as votes cast (bylaws 5.7).
+- **First annual meeting:** the election counts only if the bylaws are ratified. If they are not, the current officers stay in office and the board brings revised bylaws to the members within 120 days (bylaws 5.11).
 
 ### Calendar and reminders
 

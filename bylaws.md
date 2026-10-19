@@ -1,6 +1,6 @@
 # Bylaws of Columbia Gadget Works
 
-*Ballot text v7, 19 October 2026. Proposed for ratification by the members at the annual meeting on Thursday 8 April 2027 (see `ballot.md`). Not yet in effect.*
+*Ballot text v7, 19 October 2026. Proposed for ratification by the members at the annual meeting on Thursday 8 April 2027. Not yet in effect.*
 
 These bylaws hold only what Missouri law requires, what protects members, and what should be hard to change. Everything else is policy (`policies/`), which the board can change at any time.
 
