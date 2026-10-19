@@ -50,4 +50,4 @@ Standard and Supporter members are **full members** and vote. **Hardship and Leg
 - CGW keeps your name, contact details, signed documents, ID photo, and payment history in Dolibarr, and never sells them.
 - Only directors can see ID photos. An ID photo is deleted 30 days after membership ends.
 - Official notices, including notices of member votes and ballots, go by email to the address on your member record. Every member agrees to this in the member agreement.
-- Full members can vote once they have been members for 30 days (bylaws 5.4).
+- Full members can vote once they have been members for 30 days (bylaws 4.4).
