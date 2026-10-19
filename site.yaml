@@ -4,8 +4,6 @@
 # status: "draft" shows a "not yet adopted" banner on every page; set "adopted" after the vote.
 status: draft
 pages:
-  - file: ballot.md
-    slug: ballot
   - file: bylaws.md
     slug: bylaws
   - file: policies/how-we-decide.md

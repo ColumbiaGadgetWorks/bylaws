@@ -2,11 +2,10 @@
 
 The official text of CGW's bylaws and policies. The website's [policies pages](https://columbiagadgetworks.org/policies/) are built directly from this repository; there is no other copy.
 
-**Status: ballot text.** Full members vote on these documents at the annual meeting on **Thursday 8 April 2027**. The bylaws are CGW's first; they take effect only if two-thirds of the full members voting ratify them. The board sets the policies, waiver, and member agreement; they take effect with the bylaws. The ballot is in [`ballot.md`](ballot.md); the steps before and after it are in [`policies/how-we-decide.md`](policies/how-we-decide.md).
+**Status: ballot text.** Full members vote on these documents at the annual meeting on **Thursday 8 April 2027**. The bylaws are CGW's first; they take effect only if two-thirds of the full members voting ratify them. The board sets the policies, waiver, and member agreement; they take effect with the bylaws. What is on the ballot, and the steps before and after it, are in [`policies/how-we-decide.md`](policies/how-we-decide.md).
 
 | File | What it covers |
 |---|---|
-| [`ballot.md`](ballot.md) | What members vote on at each annual meeting, and who votes |
 | [`bylaws.md`](bylaws.md) | The bylaws. Changed only by the members, by a two-thirds vote |
 | [`policies/how-we-decide.md`](policies/how-we-decide.md) | How to propose a change and how voting works. **Start here** |
 | [`policies/membership.md`](policies/membership.md) | Joining, age, dues, missed dues, guests |
